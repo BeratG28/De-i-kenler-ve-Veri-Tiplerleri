@@ -1,5 +1,5 @@
 # De-i-kenler-ve-Veri-Tiplerleri
-https://app.patika.dev/courses/csharp-101/4-degiskenlerDeğişkenler Ödevi 
+https://app.patika.dev/courses/csharp-101/4-degiskenler    -Değişkenler Ödevi 
 
 using System;
 
